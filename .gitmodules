@@ -1,0 +1,9 @@
+[submodule "framework"]
+	path = framework
+	url = github.com:project-horizon/framework
+[submodule "architecture"]
+	path = architecture
+	url = github.com:project-horizon/architecture
+[submodule "runtime"]
+	path = runtime
+	url = github.com:project-horizon/runtime
