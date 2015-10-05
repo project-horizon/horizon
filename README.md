@@ -1,6 +1,6 @@
-# nessy
+# horizon
 
-The nessy framework encapsulates a JavaScript and a PolyDSL syntaxtree (DOM).
+The horizon framework encapsulates a JavaScript and a PolyDSL syntaxtree (DOM).
 It features EDSLs for JavaScript and PolyDSL and is by that capable to produce
 DOMs for both languages.
 
